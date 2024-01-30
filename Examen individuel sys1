@@ -1,0 +1,57 @@
+
+WE CHALL SYS1
+
+[Niveau 0]
+
+  - Se déplacer vers le répertoire du niveau 0 avec la commande : cd /home/level/00_Welcome.
+  - Examiner la liste des fichiers dans le répertoire 00_Welcome avec : ls.
+  - Consulter le contenu du fichier readme.txt avec : cat README.txt.
+  - Le mot de passe se trouve à l'intérieur du fichier readme.
+
+
+[Niveau 1]
+
+  - Naviguer vers le répertoire du niveau 1 en utilisant : cd /home/level/01_choise_tree.
+  - Se rendre dans le dossier "patience" avec : cd /blue/hats/grey/solution/patience.
+  - Afficher le contenu du fichier solution avec : cat solution.
+  - Le mot de passe est situé dans ce fichier.
+
+
+[Niveau 2]
+
+  - Accéder au répertoire du niveau 2 via : cd /home/level/02.
+  - Afficher la liste complète des éléments dans le dossier 02, y compris les fichiers cachés, avec : ls -al.
+  - Entrer dans le dossier caché nommé .porb avec : cd .porb.
+  - Examiner tous les éléments du dossier .porb en utilisant : ls -al, puis localiser le fichier .solution.
+  - Afficher le contenu du fichier .solution avec : cat solution.
+  - Le mot de passe se trouve dans ce fichier.
+
+
+[Niveau 3]
+
+  - Naviguer vers le répertoire du niveau 3 à l'aide de : cd /home/level/03.
+  - Afficher la liste complète des éléments dans le dossier 03, y compris les fichiers cachés, avec : ls -al.
+  - Consulter le fichier .bash_history avec : cat .bash_history.
+  - Le mot de passe est situé à la première ligne.
+
+
+[Niveau 4]
+
+  - Se rendre dans le répertoire du niveau 4 via : cd /home/level/04_kwisatz.
+  - Afficher la liste complète des éléments dans le dossier 04_kwisatz, y compris les fichiers cachés, avec : ls -al.
+  - Examiner le contenu du fichier README.nfo avec : cat README.nfo.
+  - Retourner au répertoire principal avec : cd.
+  - Voir les éléments du répertoire avec : ls.
+  - Naviguer dans le dossier level avec : cd level.
+  - Ensuite, afficher les éléments du dossier B4_kwdsatz avec : ls.
+  - Entrer dans le dossier 04_kwisatz avec : cd 04_kwisatz.
+  - Afficher les fichiers README2.md et READMEtxt avec : ls.
+  - Modifier les permissions de README2.md avec : chmod 755 README2.md, puis afficher son contenu avec : cat README2.md.
+  - Le mot de passe se trouve dans ce fichier README2.md.
+
+
+[Niveau 5]
+
+  - Se rendre dans le répertoire du niveau 5 avec : cd /home/level/05_privacyz.
+  - Afficher le contenu du fichier README.md avec : cat README.md.
+  - Le mot de passe est trouvé dans ce fichier.
